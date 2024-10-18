@@ -6,4 +6,4 @@ resources:
 images:
 - name: schoolofdevops/vote
   newName: initcron/vote
-  newTag: 76e1b95
+  newTag: 1dba77f
